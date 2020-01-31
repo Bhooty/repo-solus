@@ -42,6 +42,19 @@ Removing the Repository
 
 `sudo eopkg remove-repo Cantalupo`
 
+##Softmaker Office 2018(Paid)
+Get a free 1year key from
+http://www.softmaker.com/go/officenxheise
+Use tempail.com for a temporary email
+And use 
+https://www.fakeaddressgenerator.com/World_Address/get_us_address
+to generate a US address
+After you register, go to "my account"
+Then go to "My licenses"
+here u can get the key u registered for 
+Enjoy
+
+
 ## A problem?
 
 Please fill a report [here](https://github.com/cantalupo555/repo-solus/issues/new)
